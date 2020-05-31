@@ -121,7 +121,7 @@ input:checked + .slider::before{
     border-radius: 5px;
     text-align: center;
     padding: 18px;
-    margin: 18px;
+    margin: 20px 18px;
    /* width: 22%;*/
     background-color: var(--bg-box-color);
     flex: auto;
@@ -252,7 +252,7 @@ input:checked + .slider::before{
     .box,
     .overview-box{
         width: 90%;
-        margin: 43px 18px 0 12px;
+        margin: 68px 18px 0 12px;
     }
     .switch-mode{
         display: flex;
